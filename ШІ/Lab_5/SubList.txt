@@ -1,0 +1,12 @@
+﻿1-A, Zinchenko G.Y.
+1-B, Lazar N.I.
+1-V, Mischuk M.K.
+Mathematics, 4, 0, 0
+Ukrainian, 3, 0, 0
+Reading, 3, 0, 0
+I and Ukraine, 1, 0, 0
+Arts, 1, 0, 0
+English, 3, Vaschuk K.I., 0
+PT, 3, Diakiv O.Y., Gym
+Choreography, 1, Popchuk M.Y., Acting hall
+Music, 1, Fen I.Y., Music cabinet
